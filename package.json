@@ -14,7 +14,7 @@
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-dart": "^0.2.4",
-    "gulp-header": "^1.8.8",
+    "gulp-header": "^2.0.3",
     "gulp-uglify": "^3.0.0",
     "wrench": "^1.5.9"
   }
